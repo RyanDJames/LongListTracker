@@ -1,0 +1,7 @@
+C:\Users\ryana\OneDrive\Documents\Docs\Coding course\MSSA\ISTA 220\Homework\LongListTracker\LongListTracker\bin\Debug\LongListTracker.exe.config
+C:\Users\ryana\OneDrive\Documents\Docs\Coding course\MSSA\ISTA 220\Homework\LongListTracker\LongListTracker\bin\Debug\LongListTracker.exe
+C:\Users\ryana\OneDrive\Documents\Docs\Coding course\MSSA\ISTA 220\Homework\LongListTracker\LongListTracker\bin\Debug\LongListTracker.pdb
+C:\Users\ryana\OneDrive\Documents\Docs\Coding course\MSSA\ISTA 220\Homework\LongListTracker\LongListTracker\obj\Debug\LongListTracker.csprojAssemblyReference.cache
+C:\Users\ryana\OneDrive\Documents\Docs\Coding course\MSSA\ISTA 220\Homework\LongListTracker\LongListTracker\obj\Debug\LongListTracker.csproj.CoreCompileInputs.cache
+C:\Users\ryana\OneDrive\Documents\Docs\Coding course\MSSA\ISTA 220\Homework\LongListTracker\LongListTracker\obj\Debug\LongListTracker.exe
+C:\Users\ryana\OneDrive\Documents\Docs\Coding course\MSSA\ISTA 220\Homework\LongListTracker\LongListTracker\obj\Debug\LongListTracker.pdb
